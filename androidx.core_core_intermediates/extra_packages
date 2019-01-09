@@ -1,0 +1,3 @@
+--extra-packages androidx.core
+--extra-packages androidx.lifecycle
+--extra-packages androidx.versionedparcelable

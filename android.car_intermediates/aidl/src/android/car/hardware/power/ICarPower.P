@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/hardware/power/ICarPower.java : \
+  packages/services/Car/car-lib/src/android/car/hardware/power/ICarPower.aidl \
+  packages/services/Car/car-lib/src/android/car/hardware/power/ICarPowerStateListener.aidl
+
+packages/services/Car/car-lib/src/android/car/hardware/power/ICarPower.aidl :
+packages/services/Car/car-lib/src/android/car/hardware/power/ICarPowerStateListener.aidl :

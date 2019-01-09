@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/drivingstate/ICarDrivingStateChangeListener.java : \
+  packages/services/Car/car-lib/src/android/car/drivingstate/ICarDrivingStateChangeListener.aidl \
+  packages/services/Car/car-lib/src/android/car/drivingstate/CarDrivingStateEvent.aidl
+
+packages/services/Car/car-lib/src/android/car/drivingstate/ICarDrivingStateChangeListener.aidl :
+packages/services/Car/car-lib/src/android/car/drivingstate/CarDrivingStateEvent.aidl :

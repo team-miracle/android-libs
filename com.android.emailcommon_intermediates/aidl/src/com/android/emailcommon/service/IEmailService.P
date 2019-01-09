@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.emailcommon_intermediates/aidl/src/com/android/emailcommon/service/IEmailService.java : \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailService.aidl \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/HostAuthCompat.aidl \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailServiceCallback.aidl \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/SearchParams.aidl
+
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailService.aidl :
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/HostAuthCompat.aidl :
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailServiceCallback.aidl :
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/SearchParams.aidl :

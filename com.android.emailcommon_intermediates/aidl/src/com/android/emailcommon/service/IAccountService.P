@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.emailcommon_intermediates/aidl/src/com/android/emailcommon/service/IAccountService.java : \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IAccountService.aidl
+
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IAccountService.aidl :

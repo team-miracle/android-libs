@@ -1,0 +1,21 @@
+
+# including out/soong/.intermediates/prebuilts/sdk/current/androidx/androidx.core_core-nodeps/android_common/aar/proguard.txt
+
+# including out/soong/.intermediates/prebuilts/sdk/current/androidx/androidx.lifecycle_lifecycle-runtime-nodeps/android_common/aar/proguard.txt
+-keepattributes *Annotation*
+
+-keepclassmembers enum androidx.lifecycle.Lifecycle$Event {
+    <fields>;
+}
+
+-keep class * implements androidx.lifecycle.LifecycleObserver {
+}
+
+-keep class * implements androidx.lifecycle.GeneratedAdapter {
+    <init>(...);
+}
+
+-keepclassmembers class ** {
+    @androidx.lifecycle.OnLifecycleEvent *;
+}
+# including out/soong/.intermediates/prebuilts/sdk/current/androidx/androidx.versionedparcelable_versionedparcelable-nodeps/android_common/aar/proguard.txt

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/settings/ICarConfigurationManager.java : \
+  packages/services/Car/car-lib/src/android/car/settings/ICarConfigurationManager.aidl \
+  packages/services/Car/car-lib/src/android/car/settings/SpeedBumpConfiguration.aidl
+
+packages/services/Car/car-lib/src/android/car/settings/ICarConfigurationManager.aidl :
+packages/services/Car/car-lib/src/android/car/settings/SpeedBumpConfiguration.aidl :

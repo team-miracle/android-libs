@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/SystemUISharedLib_intermediates/aidl/src/com/android/systemui/shared/recents/ISystemUiProxy.java : \
+  frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/ISystemUiProxy.aidl \
+  frameworks/base/graphics/java/android/graphics/Rect.aidl \
+  frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/system/GraphicBufferCompat.aidl
+
+frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/ISystemUiProxy.aidl :
+frameworks/base/graphics/java/android/graphics/Rect.aidl :
+frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/system/GraphicBufferCompat.aidl :

@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/SystemUISharedLib_intermediates/aidl/src/com/android/systemui/shared/recents/IOverviewProxy.java : \
+  frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/IOverviewProxy.aidl \
+  frameworks/base/core/java/android/view/MotionEvent.aidl \
+  frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/ISystemUiProxy.aidl
+
+frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/IOverviewProxy.aidl :
+frameworks/base/core/java/android/view/MotionEvent.aidl :
+frameworks/base/packages/SystemUI/shared/src/com/android/systemui/shared/recents/ISystemUiProxy.aidl :

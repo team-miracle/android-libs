@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.emailcommon_intermediates/aidl/src/com/android/emailcommon/service/IPolicyService.java : \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IPolicyService.aidl \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/provider/Policy.aidl
+
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IPolicyService.aidl :
+packages/apps/Email/emailcommon/src/com/android/emailcommon/provider/Policy.aidl :

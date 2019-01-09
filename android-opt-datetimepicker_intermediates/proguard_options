@@ -1,0 +1,16 @@
+# Referenced at frameworks/opt/datetimepicker/res/layout/date_picker_selected_date.xml:27
+-keep class com.android.datetimepicker.AccessibleLinearLayout { <init>(...); }
+
+# Referenced at frameworks/opt/datetimepicker/res/layout/time_header_label.xml:50
+# Referenced at frameworks/opt/datetimepicker/res/layout/date_picker_selected_date.xml:60
+-keep class com.android.datetimepicker.AccessibleTextView { <init>(...); }
+
+# Referenced at frameworks/opt/datetimepicker/res/layout/date_picker_view_animator.xml:16
+-keep class com.android.datetimepicker.date.AccessibleDateAnimator { <init>(...); }
+
+# Referenced at frameworks/opt/datetimepicker/res/layout/year_label_text_view.xml:16
+-keep class com.android.datetimepicker.date.TextViewWithCircularIndicator { <init>(...); }
+
+# Referenced at frameworks/opt/datetimepicker/res/layout/time_picker_dialog.xml:34
+-keep class com.android.datetimepicker.time.RadialPickerLayout { <init>(...); }
+

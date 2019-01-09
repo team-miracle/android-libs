@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/ICarProjection.java : \
+  packages/services/Car/car-lib/src/android/car/ICarProjection.aidl \
+  packages/services/Car/car-lib/src/android/car/ICarProjectionCallback.aidl \
+  frameworks/base/core/java/android/content/Intent.aidl
+
+packages/services/Car/car-lib/src/android/car/ICarProjection.aidl :
+packages/services/Car/car-lib/src/android/car/ICarProjectionCallback.aidl :
+frameworks/base/core/java/android/content/Intent.aidl :

@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/cluster/renderer/IInstrumentCluster.java : \
+  packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentCluster.aidl \
+  packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentClusterCallback.aidl \
+  packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentClusterNavigation.aidl \
+  frameworks/base/core/java/android/view/KeyEvent.aidl
+
+packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentCluster.aidl :
+packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentClusterCallback.aidl :
+packages/services/Car/car-lib/src/android/car/cluster/renderer/IInstrumentClusterNavigation.aidl :
+frameworks/base/core/java/android/view/KeyEvent.aidl :

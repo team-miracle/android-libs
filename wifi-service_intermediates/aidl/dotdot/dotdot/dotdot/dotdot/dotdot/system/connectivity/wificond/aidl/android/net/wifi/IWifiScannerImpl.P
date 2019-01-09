@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/wifi-service_intermediates/aidl/dotdot/dotdot/dotdot/dotdot/dotdot/system/connectivity/wificond/aidl/android/net/wifi/IWifiScannerImpl.java : \
+  frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IWifiScannerImpl.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IPnoScanEvent.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IScanEvent.aidl \
+  system/connectivity/wificond/aidl/com/android/server/wifi/wificond/NativeScanResult.aidl \
+  system/connectivity/wificond/aidl/com/android/server/wifi/wificond/PnoSettings.aidl \
+  system/connectivity/wificond/aidl/com/android/server/wifi/wificond/SingleScanSettings.aidl
+
+frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IWifiScannerImpl.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IPnoScanEvent.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IScanEvent.aidl :
+system/connectivity/wificond/aidl/com/android/server/wifi/wificond/NativeScanResult.aidl :
+system/connectivity/wificond/aidl/com/android/server/wifi/wificond/PnoSettings.aidl :
+system/connectivity/wificond/aidl/com/android/server/wifi/wificond/SingleScanSettings.aidl :

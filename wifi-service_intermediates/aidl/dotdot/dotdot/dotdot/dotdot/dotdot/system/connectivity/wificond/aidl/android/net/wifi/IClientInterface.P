@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/wifi-service_intermediates/aidl/dotdot/dotdot/dotdot/dotdot/dotdot/system/connectivity/wificond/aidl/android/net/wifi/IClientInterface.java : \
+  frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IClientInterface.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IWifiScannerImpl.aidl
+
+frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IClientInterface.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IWifiScannerImpl.aidl :

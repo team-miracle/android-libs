@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/media/ICarAudio.java : \
+  packages/services/Car/car-lib/src/android/car/media/ICarAudio.aidl \
+  packages/services/Car/car-lib/src/android/car/media/CarAudioPatchHandle.aidl
+
+packages/services/Car/car-lib/src/android/car/media/ICarAudio.aidl :
+packages/services/Car/car-lib/src/android/car/media/CarAudioPatchHandle.aidl :

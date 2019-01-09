@@ -1,0 +1,3 @@
+frameworks/base/cmds/hid/src/com/android/commands/hid/Device.java
+frameworks/base/cmds/hid/src/com/android/commands/hid/Event.java
+frameworks/base/cmds/hid/src/com/android/commands/hid/Hid.java

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/IUsbAoapSupportCheckService.java : \
+  packages/services/Car/car-lib/src/android/car/IUsbAoapSupportCheckService.aidl \
+  frameworks/base/core/java/android/hardware/usb/UsbDevice.aidl
+
+packages/services/Car/car-lib/src/android/car/IUsbAoapSupportCheckService.aidl :
+frameworks/base/core/java/android/hardware/usb/UsbDevice.aidl :

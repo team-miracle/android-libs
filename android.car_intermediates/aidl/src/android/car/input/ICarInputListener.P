@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/input/ICarInputListener.java : \
+  packages/services/Car/car-lib/src/android/car/input/ICarInputListener.aidl \
+  frameworks/base/core/java/android/view/KeyEvent.aidl
+
+packages/services/Car/car-lib/src/android/car/input/ICarInputListener.aidl :
+frameworks/base/core/java/android/view/KeyEvent.aidl :

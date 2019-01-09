@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/trust/ICarTrustAgentBleCallback.java : \
+  packages/services/Car/car-lib/src/android/car/trust/ICarTrustAgentBleCallback.aidl \
+  system/bt/binder/android/bluetooth/BluetoothDevice.aidl
+
+packages/services/Car/car-lib/src/android/car/trust/ICarTrustAgentBleCallback.aidl :
+system/bt/binder/android/bluetooth/BluetoothDevice.aidl :

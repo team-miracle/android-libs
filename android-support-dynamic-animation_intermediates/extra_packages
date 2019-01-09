@@ -1,0 +1,12 @@
+--extra-packages android.arch.core
+--extra-packages android.arch.lifecycle
+--extra-packages android.arch.lifecycle.livedata.core
+--extra-packages android.arch.lifecycle.viewmodel
+--extra-packages android.support.compat
+--extra-packages android.support.coreutils
+--extra-packages android.support.documentfile
+--extra-packages android.support.dynamicanimation
+--extra-packages android.support.loader
+--extra-packages android.support.localbroadcastmanager
+--extra-packages android.support.print
+--extra-packages androidx.versionedparcelable

@@ -1,0 +1,4 @@
+--extra-packages android.arch.lifecycle
+--extra-packages android.support.compat
+--extra-packages android.support.transition
+--extra-packages androidx.versionedparcelable

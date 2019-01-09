@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/diagnostic/ICarDiagnosticEventListener.java : \
+  packages/services/Car/car-lib/src/android/car/diagnostic/ICarDiagnosticEventListener.aidl \
+  packages/services/Car/car-lib/src/android/car/diagnostic/CarDiagnosticEvent.aidl
+
+packages/services/Car/car-lib/src/android/car/diagnostic/ICarDiagnosticEventListener.aidl :
+packages/services/Car/car-lib/src/android/car/diagnostic/CarDiagnosticEvent.aidl :

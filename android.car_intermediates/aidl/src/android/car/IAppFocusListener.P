@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/android.car_intermediates/aidl/src/android/car/IAppFocusListener.java : \
+  packages/services/Car/car-lib/src/android/car/IAppFocusListener.aidl
+
+packages/services/Car/car-lib/src/android/car/IAppFocusListener.aidl :

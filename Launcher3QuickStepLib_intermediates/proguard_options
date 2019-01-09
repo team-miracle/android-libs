@@ -1,0 +1,185 @@
+# Referenced at packages/apps/Launcher3/quickstep/AndroidManifest.xml:27
+-keep class com.android.launcher3.LauncherBackupAgent { <init>(...); }
+# Referenced at packages/apps/Launcher3/quickstep/AndroidManifest.xml:76
+-keep class com.android.launcher3.uioverrides.dynamicui.WallpaperManagerCompatVL$ColorExtractionService { <init>(...); }
+# Referenced at packages/apps/Launcher3/quickstep/AndroidManifest.xml:63
+-keep class com.android.quickstep.LauncherSearchIndexablesProvider { <init>(...); }
+# Referenced at packages/apps/Launcher3/quickstep/AndroidManifest.xml:49
+-keep class com.android.quickstep.RecentsActivity { <init>(...); }
+# Referenced at packages/apps/Launcher3/quickstep/AndroidManifest.xml:39
+-keep class com.android.quickstep.TouchInteractionService { <init>(...); }
+# Referenced at packages/apps/Launcher3/res/layout/app_widget_resize_frame.xml:17
+-keep class com.android.launcher3.AppWidgetResizeFrame { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_list_row_view.xml:28
+# Referenced at packages/apps/Launcher3/res/layout/system_shortcut.xml:24
+# Referenced at packages/apps/Launcher3/res/layout/folder_application.xml:17
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_icon.xml:16
+-keep class com.android.launcher3.BubbleTextView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/workspace_screen.xml:17
+# Referenced at packages/apps/Launcher3/res/layout/hotseat.xml:21
+# Referenced at packages/apps/Launcher3/res/layout/folder_page.xml:17
+-keep class com.android.launcher3.CellLayout { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/drop_target_bar.xml:26
+-keep class com.android.launcher3.DeleteDropTarget { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/drop_target_bar.xml:16
+-keep class com.android.launcher3.DropTargetBar { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/user_folder_icon_normalized.xml:44
+-keep class com.android.launcher3.ExtendedEditText { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/hotseat.xml:16
+-keep class com.android.launcher3.Hotseat { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/launcher.xml:15
+-keep class com.android.launcher3.LauncherRootView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/drop_target_bar.xml:36
+-keep class com.android.launcher3.SecondaryDropTarget { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/launcher.xml:33
+-keep class com.android.launcher3.Workspace { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/all_apps.xml:19
+-keep class com.android.launcher3.allapps.AllAppsContainerView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_tabs.xml:17
+-keep class com.android.launcher3.allapps.AllAppsPagedView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_rv_layout.xml:17
+-keep class com.android.launcher3.allapps.AllAppsRecyclerView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_floating_header.xml:16
+-keep class com.android.launcher3.allapps.FloatingHeaderView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_floating_header.xml:26
+-keep class com.android.launcher3.allapps.PersonalWorkSlidingTabStrip { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/work_tab_footer.xml:37
+-keep class com.android.launcher3.allapps.WorkModeSwitch { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/search_container_all_apps.xml:16
+-keep class com.android.launcher3.allapps.search.AppsSearchContainerLayout { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/launcher.xml:23
+-keep class com.android.launcher3.dragndrop.DragLayer { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/add_item_confirmation_activity.xml:49
+-keep class com.android.launcher3.dragndrop.LivePreviewWidgetCell { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/user_folder_icon_normalized.xml:17
+-keep class com.android.launcher3.folder.Folder { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/folder_icon.xml:17
+-keep class com.android.launcher3.folder.FolderIcon { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/user_folder_icon_normalized.xml:25
+-keep class com.android.launcher3.folder.FolderPagedView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/drawable-v26/adaptive_icon_drawable_wrapper.xml:20
+-keep class com.android.launcher3.graphics.FixedScaleDrawable { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/drawable-v24/ic_uninstall_shadow.xml:16
+# Referenced at packages/apps/Launcher3/res/drawable-v24/ic_setup_shadow.xml:16
+# Referenced at packages/apps/Launcher3/res/drawable-v24/ic_remove_shadow.xml:16
+-keep class com.android.launcher3.graphics.ShadowDrawable { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/notification_content.xml:108
+-keep class com.android.launcher3.notification.NotificationFooterLayout { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/notification_content.xml:50
+-keep class com.android.launcher3.notification.NotificationMainView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/user_folder_icon_normalized.xml:64
+-keep class com.android.launcher3.pageindicators.PageIndicatorDots { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/launcher.xml:48
+-keep class com.android.launcher3.pageindicators.WorkspacePageIndicator { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/popup_container.xml:17
+-keep class com.android.launcher3.popup.PopupContainerWithArrow { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/search_container_workspace.xml:17
+-keep class com.android.launcher3.qsb.QsbContainerView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/search_container_workspace.xml:25
+-keep class com.android.launcher3.qsb.QsbContainerView$QsbFragment { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/deep_shortcut.xml:24
+-keep class com.android.launcher3.shortcuts.DeepShortcutTextView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/system_shortcut.xml:17
+# Referenced at packages/apps/Launcher3/res/layout/deep_shortcut.xml:17
+-keep class com.android.launcher3.shortcuts.DeepShortcutView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/work_tab_bottom_user_education_view.xml:16
+-keep class com.android.launcher3.views.BottomUserEducationView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/xml/launcher_preferences.xml:19
+-keep class com.android.launcher3.views.ButtonPreference { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/folder_icon.xml:23
+# Referenced at packages/apps/Launcher3/res/layout/app_icon.xml:17
+-keep class com.android.launcher3.views.DoubleShadowBubbleTextView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/longpress_options_menu.xml:16
+-keep class com.android.launcher3.views.OptionsPopupView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_full_sheet.xml:44
+# Referenced at packages/apps/Launcher3/res/layout/all_apps_fast_scroller.xml:27
+-keep class com.android.launcher3.views.RecyclerViewFastScroller { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/scrim_view.xml:16
+-keep class com.android.launcher3.views.ScrimView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_full_sheet.xml:23
+-keep class com.android.launcher3.views.TopRoundedCornerView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/work_tab_footer.xml:16
+-keep class com.android.launcher3.views.WorkFooterContainer { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widget_cell.xml:16
+-keep class com.android.launcher3.widget.WidgetCell { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widget_cell_content.xml:60
+-keep class com.android.launcher3.widget.WidgetImageView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_bottom_sheet.xml:17
+-keep class com.android.launcher3.widget.WidgetsBottomSheet { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_full_sheet.xml:16
+-keep class com.android.launcher3.widget.WidgetsFullSheet { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/widgets_full_sheet.xml:30
+-keep class com.android.launcher3.widget.WidgetsRecyclerView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/fallback_recents_activity.xml:23
+-keep class com.android.quickstep.fallback.FallbackRecentsView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/fallback_recents_activity.xml:16
+-keep class com.android.quickstep.fallback.RecentsRootView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/overview_clear_all_button.xml:17
+-keep class com.android.quickstep.views.ClearAllButton { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/task.xml:30
+-keep class com.android.quickstep.views.IconView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/task_menu.xml:17
+-keep class com.android.quickstep.views.TaskMenuView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/task.xml:24
+-keep class com.android.quickstep.views.TaskThumbnailView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/quickstep/res/layout/task.xml:16
+-keep class com.android.quickstep.views.TaskView { <init>(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/add_item_confirmation_activity.xml:76
+-keepclassmembers class * { *** onCancelClick(...); }
+
+# Referenced at packages/apps/Launcher3/res/layout/add_item_confirmation_activity.xml:82
+-keepclassmembers class * { *** onPlaceAutomaticallyClick(...); }
+

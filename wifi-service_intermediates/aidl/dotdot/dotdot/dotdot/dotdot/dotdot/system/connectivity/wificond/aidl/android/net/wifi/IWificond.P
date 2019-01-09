@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/wifi-service_intermediates/aidl/dotdot/dotdot/dotdot/dotdot/dotdot/system/connectivity/wificond/aidl/android/net/wifi/IWificond.java : \
+  frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IWificond.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IApInterface.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IClientInterface.aidl \
+  system/connectivity/wificond/aidl/android/net/wifi/IInterfaceEventCallback.aidl
+
+frameworks/opt/net/wifi/service/../../../../../system/connectivity/wificond/aidl/android/net/wifi/IWificond.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IApInterface.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IClientInterface.aidl :
+system/connectivity/wificond/aidl/android/net/wifi/IInterfaceEventCallback.aidl :

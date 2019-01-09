@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.emailcommon_intermediates/aidl/src/com/android/emailcommon/service/IEmailServiceCallback.java : \
+  packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailServiceCallback.aidl
+
+packages/apps/Email/emailcommon/src/com/android/emailcommon/service/IEmailServiceCallback.aidl :
